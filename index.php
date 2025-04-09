@@ -64,7 +64,7 @@ error_reporting(0);
           <li role="presentation" class="active"><a href="#resentnewcar" role="tab" data-toggle="tab"> Vehicles</a></li>
         </ul>
       </div>
-      <!-- Recently Listed New Cars -->
+      <!-- Recently Listed Cars -->
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="resentnewcar">
 <div class="col-list-3">
@@ -84,9 +84,8 @@ error_reporting(0);
     </div>
   </div>
 </section>
-<!-- /Resent Cat --> 
+<!-- Resent Cat --> 
 
-<!-- Fun Facts-->
 <section class="fun-facts-section">
   <div class="container div_zindex">
     <div class="row">
@@ -124,7 +123,6 @@ error_reporting(0);
       </div>
     </div>
   </div>
-  <!-- Dark Overlay-->
   <div class="dark-overlay"></div>
 </section>
 
